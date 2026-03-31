@@ -1,4 +1,4 @@
-<html>
+<html> 
 <head>
   <title>Age Calculator</title>
 </head>
